@@ -6,3 +6,6 @@ Well, to use this all you need to do is download the files, add your desired mid
 
 # Where to find Midis
 I usually use onlinesequencer.net for midis but you can really use any website.
+
+# Other
+there are two more things you should probably read; there is a readme in the MIDI file and a pdf file with instructions as well
